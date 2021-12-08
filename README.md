@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">
 <h3 align="left"> In progress: </h3>
-<img src="https://w7.pngwing.com/pngs/904/579/png-transparent-production-logo-front-and-back-ends-front-end-web-development-javascript-frontend-web-development-angle-text-rectangle.png" >
+<img style="width:20px;height:40px;" src="https://w7.pngwing.com/pngs/904/579/png-transparent-production-logo-front-and-back-ends-front-end-web-development-javascript-frontend-web-development-angle-text-rectangle.png" >
