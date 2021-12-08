@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 <h4 align="left"> In progress: </h3>
 <img style="width:200px;height:113px;" src="http://oxnia.com/wp-content/uploads/2019/01/frontend-logo-featured-image-2.png" >
-<img style="height: 113px;width: 127px;" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" >
+<img style="height: 113px;width: 102px;" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" >
