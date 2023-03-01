@@ -1,4 +1,4 @@
-- 👋 Hello there, this is Cuong or @cngpc.43
+- 👋 Hello there, this is Cuong @cngpc.43
 - 👀 I'm now a freshman at University of Information Technology
 - 🌱 My major is Information Systems
 - 💞️ My objective is to learn the new technology AMAP
