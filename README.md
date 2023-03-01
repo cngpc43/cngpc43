@@ -1,5 +1,5 @@
 - 👋 Hello there, this is Cuong @cngpc.43
-- 👀 I'm now a freshman at University of Information Technology
+- 👀 I'm now a freshman at University of Information TechnologyCancel changes
 - 🌱 My major is Information Systems
 - 💞️ My objective is to learn the new technology AMAP
 - 📫 Thank you for coming over my Github profile!
@@ -10,6 +10,3 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
  </h1> MY EXPERIENCES
 
-<h4 align="left"> In progress: </h3>
-<img style="width:200px;height:113px;" src="http://oxnia.com/wp-content/uploads/2019/01/frontend-logo-featured-image-2.png" >
-<img style="height: 113px;width: 102px;" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" >
