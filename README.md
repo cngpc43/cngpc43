@@ -1,7 +1,7 @@
 - 👋 Hello there, this is Cuong @cngpc.43
-- 👀 I'm now a freshman at University of Information TechnologyCancel changes
+- 👀 I'm now a freshman at University of Information Technology
 - 🌱 My major is Information Systems
-- 💞️ My objective is to learn the new technology AMAP
+- 💞️ My objective is to learn the new technology
 - 📫 Thank you for coming over my Github profile!
 <!---
 cngpc43/cngpc43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
