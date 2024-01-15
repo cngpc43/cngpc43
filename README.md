@@ -7,4 +7,4 @@ cngpc43/cngpc43 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://imgur.com/9HQbDEe" width = 850 height = 400/>
+<img src="https://imgur.com/9HQbDEe.gif" width = 850 height = 400/>
